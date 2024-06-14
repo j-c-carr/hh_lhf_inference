@@ -1,3 +1,4 @@
+.hf_access_token
 out/fairprism_eval/*
 !out/fairprism_eval/.gitkeep
 out/hh_eval/*
